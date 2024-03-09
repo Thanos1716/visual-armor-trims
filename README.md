@@ -1,12 +1,12 @@
-<br>
+# Armor Trim Consistency
+
+## About
+
 <center>
   <a href="https://modrinth.com/resourcepack/armor-trim-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
   <a href="https://github.com/Thanos1716/armor-trim-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="GitHub"></a>
   <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/discord-singular_vector.svg" alt="Discord"></a>
 </center>
-<br>
-
-## About
 
 ### What is this?
 
