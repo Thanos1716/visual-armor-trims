@@ -32,7 +32,7 @@ If you feel inclined to add support, make sure to check out this pack's source f
 
 ## Links
 
-If this pack interests you, come and join the [Discord server]https://discord.gg/x8n6RmP78V)!
+If this pack interests you, come and join the [Discord server](https://discord.gg/x8n6RmP78V)!
 
 Be sure to check out my other cool project, [Pixel Consistency](https://modrinth.com/resourcepack/pixel-consistency)!
 
