@@ -1,10 +1,10 @@
-# Armor Trim Consistency
+# Visual Armor Trims
 
 ## About
 
 <center>
-  <a href="https://modrinth.com/resourcepack/armor-trim-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
-  <a href="https://github.com/Thanos1716/armor-trim-consistency" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="GitHub"></a>
+  <a href="https://modrinth.com/resourcepack/visual-armor-trims" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/modrinth_vector.svg" alt="Modrinth"></a>
+  <a href="https://github.com/Thanos1716/visual-armor-trims" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/github_vector.svg" alt="GitHub"></a>
   <a href="https://discord.gg/x8n6RmP78V" target="_blank"><img src="https://github.com/Thanos1716/pixel-consistency/wiki/images/discord-singular_vector.svg" alt="Discord"></a>
 </center>
 
@@ -23,7 +23,7 @@ In order for you to get these wonderful textures, you can either use:
 - [Fabulously Optimized](https://download.fo) (recommended)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) ([1.20.4 build](https://github.com/dicedpixels/CITResewn/releases/download/1.20.4-1.1.4-dicedpixels/citresewn-1.1.4-dicedpixels+1.20.4.jar)) (manual installation)
 - Any modpack including CIT Resewn or a working fork.
-- [Optifine](https://optifine.net/download) (untested)
+- [OptiFine](https://optifine.net/downloads) (untested)
 
 ### Chime?
 
@@ -36,7 +36,7 @@ If this pack interests you, come and join the [Discord server](https://discord.g
 
 Be sure to check out my other cool project, [Pixel Consistency](https://modrinth.com/resourcepack/pixel-consistency)!
 
-If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/armor-trim-consistency/issues) page.
+If you have found a broken texture in this pack, or would like to request a feature, please raise an issue on the [issues](https://github.com/Thanos1716/visual-armor-trims/issues) page.
 
 ### Curseforge
 
@@ -60,4 +60,4 @@ If you would like to:
  - Request a commission, or
  - Donate, to me directly
 
-please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/armor-trim-consistency/issues) on the Github page.
+please either join the [Discord](https://discord.gg/x8n6RmP78V) or [raise an issue](https://github.com/Thanos1716/visual-armor-trims/issues) on the Github page.
